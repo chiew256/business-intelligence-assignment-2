@@ -1,0 +1,717 @@
+Country,Year,Element,Value
+Bangladesh,1961,Standard Deviation,0.5285294117647058
+Bangladesh,1961,Temperature change,0.014352941176470596
+Bangladesh,1962,Standard Deviation,0.5285294117647058
+Bangladesh,1962,Temperature change,-0.16723529411764707
+Bangladesh,1963,Standard Deviation,0.5285294117647058
+Bangladesh,1963,Temperature change,-0.058823529411764705
+Bangladesh,1964,Standard Deviation,0.5285294117647058
+Bangladesh,1964,Temperature change,0.11
+Bangladesh,1965,Standard Deviation,0.5285294117647058
+Bangladesh,1965,Temperature change,-0.19847058823529412
+Bangladesh,1966,Standard Deviation,0.5285294117647058
+Bangladesh,1966,Temperature change,0.2802941176470588
+Bangladesh,1967,Standard Deviation,0.5285294117647058
+Bangladesh,1967,Temperature change,-0.1991176470588235
+Bangladesh,1968,Standard Deviation,0.5285294117647058
+Bangladesh,1968,Temperature change,-0.25623529411764706
+Bangladesh,1969,Standard Deviation,0.5285294117647058
+Bangladesh,1969,Temperature change,-0.00023529411764706767
+Bangladesh,1970,Standard Deviation,0.5285294117647058
+Bangladesh,1970,Temperature change,-0.04317647058823529
+Bangladesh,1971,Standard Deviation,0.5285294117647058
+Bangladesh,1971,Temperature change,-0.5507647058823529
+Bangladesh,1972,Standard Deviation,0.5285294117647058
+Bangladesh,1972,Temperature change,-0.0035882352941176594
+Bangladesh,1973,Standard Deviation,0.5285294117647058
+Bangladesh,1973,Temperature change,0.1228235294117647
+Bangladesh,1974,Standard Deviation,0.5285294117647058
+Bangladesh,1974,Temperature change,-0.15505882352941178
+Bangladesh,1975,Standard Deviation,0.5285294117647058
+Bangladesh,1975,Temperature change,-0.09994117647058824
+Bangladesh,1976,Standard Deviation,0.5285294117647058
+Bangladesh,1976,Temperature change,-0.07564705882352941
+Bangladesh,1977,Standard Deviation,0.5285294117647058
+Bangladesh,1977,Temperature change,-0.2498235294117647
+Bangladesh,1978,Standard Deviation,0.5285294117647058
+Bangladesh,1978,Temperature change,-0.19182352941176473
+Bangladesh,1979,Standard Deviation,0.5285294117647058
+Bangladesh,1979,Temperature change,0.49835294117647055
+Bangladesh,1980,Standard Deviation,0.5285294117647058
+Bangladesh,1980,Temperature change,0.14194117647058824
+Bangladesh,1981,Standard Deviation,0.5285294117647058
+Bangladesh,1981,Temperature change,-0.22952941176470587
+Bangladesh,1982,Standard Deviation,0.5285294117647058
+Bangladesh,1982,Temperature change,-0.06111764705882354
+Bangladesh,1983,Standard Deviation,0.5285294117647058
+Bangladesh,1983,Temperature change,-0.13223529411764706
+Bangladesh,1984,Standard Deviation,0.5285294117647058
+Bangladesh,1984,Temperature change,-0.27652941176470586
+Bangladesh,1985,Standard Deviation,0.5285294117647058
+Bangladesh,1985,Temperature change,0.08388235294117646
+Bangladesh,1986,Standard Deviation,0.5285294117647058
+Bangladesh,1986,Temperature change,0.029058823529411776
+Bangladesh,1987,Standard Deviation,0.5285294117647058
+Bangladesh,1987,Temperature change,0.3453529411764706
+Bangladesh,1988,Standard Deviation,0.5285294117647058
+Bangladesh,1988,Temperature change,0.3727058823529412
+Bangladesh,1989,Standard Deviation,0.5285294117647058
+Bangladesh,1989,Temperature change,-0.05435294117647058
+Bangladesh,1990,Standard Deviation,0.5285294117647058
+Bangladesh,1990,Temperature change,-0.09211764705882353
+Bangladesh,1991,Standard Deviation,0.5285294117647058
+Bangladesh,1991,Temperature change,-0.07476470588235294
+Bangladesh,1992,Standard Deviation,0.5285294117647058
+Bangladesh,1992,Temperature change,-0.16305882352941178
+Bangladesh,1993,Standard Deviation,0.5285294117647058
+Bangladesh,1993,Temperature change,-0.3635294117647059
+Bangladesh,1994,Standard Deviation,0.5285294117647058
+Bangladesh,1994,Temperature change,0.16188235294117648
+Bangladesh,1995,Standard Deviation,0.5285294117647058
+Bangladesh,1995,Temperature change,0.1533529411764706
+Bangladesh,1996,Standard Deviation,0.5285294117647058
+Bangladesh,1996,Temperature change,0.17070588235294118
+Bangladesh,1997,Standard Deviation,0.5285294117647058
+Bangladesh,1997,Temperature change,-0.20752941176470588
+Bangladesh,1998,Standard Deviation,0.5285294117647058
+Bangladesh,1998,Temperature change,0.5874705882352941
+Bangladesh,1999,Standard Deviation,0.5285294117647058
+Bangladesh,1999,Temperature change,0.780235294117647
+Bangladesh,2000,Standard Deviation,0.5285294117647058
+Bangladesh,2000,Temperature change,0.17841176470588235
+Bangladesh,2001,Standard Deviation,0.5285294117647058
+Bangladesh,2001,Temperature change,0.3331176470588235
+Bangladesh,2002,Standard Deviation,0.5285294117647058
+Bangladesh,2002,Temperature change,0.3874705882352941
+Bangladesh,2003,Standard Deviation,0.5285294117647058
+Bangladesh,2003,Temperature change,0.2522941176470588
+Bangladesh,2004,Standard Deviation,0.5285294117647058
+Bangladesh,2004,Temperature change,0.31276470588235294
+Bangladesh,2005,Standard Deviation,0.5285294117647058
+Bangladesh,2005,Temperature change,0.5567058823529412
+Bangladesh,2006,Standard Deviation,0.5285294117647058
+Bangladesh,2006,Temperature change,0.7885294117647059
+Bangladesh,2007,Standard Deviation,0.5285294117647058
+Bangladesh,2007,Temperature change,0.23029411764705882
+Bangladesh,2008,Standard Deviation,0.5285294117647058
+Bangladesh,2008,Temperature change,0.18376470588235294
+Bangladesh,2009,Standard Deviation,0.5285294117647058
+Bangladesh,2009,Temperature change,0.7400588235294118
+Bangladesh,2010,Standard Deviation,0.5285294117647058
+Bangladesh,2010,Temperature change,0.789
+Bangladesh,2011,Standard Deviation,0.5285294117647058
+Bangladesh,2011,Temperature change,0.15305882352941175
+Bangladesh,2012,Standard Deviation,0.5285294117647058
+Bangladesh,2012,Temperature change,0.17976470588235294
+Bangladesh,2013,Standard Deviation,0.5285294117647058
+Bangladesh,2013,Temperature change,0.2981176470588235
+Bangladesh,2014,Standard Deviation,0.5285294117647058
+Bangladesh,2014,Temperature change,0.4661176470588235
+Bangladesh,2015,Standard Deviation,0.5285294117647058
+Bangladesh,2015,Temperature change,0.7611176470588236
+Bangladesh,2016,Standard Deviation,0.5285294117647058
+Bangladesh,2016,Temperature change,1.4109411764705884
+Bangladesh,2017,Standard Deviation,0.5285294117647058
+Bangladesh,2017,Temperature change,1.1118823529411765
+Bangladesh,2018,Standard Deviation,0.5285294117647058
+Bangladesh,2018,Temperature change,0.7972352941176472
+Bangladesh,2019,Standard Deviation,0.5285294117647058
+Bangladesh,2019,Temperature change,1.119470588235294
+Bangladesh,2020,Standard Deviation,0.5285294117647058
+Bangladesh,2020,Temperature change,0.9219999999999999
+Bangladesh,2021,Standard Deviation,0.5285294117647058
+Bangladesh,2021,Temperature change,1.3556470588235294
+Bangladesh,2022,Standard Deviation,0.5285294117647058
+Bangladesh,2022,Temperature change,1.2421176470588235
+Brunei Darussalam,1961,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1961,Temperature change,0.04711764705882353
+Brunei Darussalam,1962,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1962,Temperature change,-0.025588235294117648
+Brunei Darussalam,1963,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1963,Temperature change,-0.16541176470588234
+Brunei Darussalam,1964,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1964,Temperature change,0.02388235294117648
+Brunei Darussalam,1965,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1965,Temperature change,-0.18447058823529414
+Brunei Darussalam,1966,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1966,Temperature change,0.1807058823529412
+Brunei Darussalam,1967,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1967,Temperature change,-0.11476470588235295
+Brunei Darussalam,1968,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1968,Temperature change,-0.15423529411764705
+Brunei Darussalam,1969,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1969,Temperature change,0.20352941176470588
+Brunei Darussalam,1970,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1970,Temperature change,0.09735294117647059
+Brunei Darussalam,1971,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1971,Temperature change,-0.26405882352941173
+Brunei Darussalam,1972,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1972,Temperature change,0.07311764705882352
+Brunei Darussalam,1973,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1973,Temperature change,0.20076470588235296
+Brunei Darussalam,1974,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1974,Temperature change,-0.13988235294117649
+Brunei Darussalam,1975,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1975,Temperature change,0.002882352941176474
+Brunei Darussalam,1976,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1976,Temperature change,-0.3496470588235294
+Brunei Darussalam,1977,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1977,Temperature change,-0.06276470588235294
+Brunei Darussalam,1978,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1978,Temperature change,0.13776470588235296
+Brunei Darussalam,1979,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1979,Temperature change,0.26329411764705885
+Brunei Darussalam,1980,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1980,Temperature change,0.17494117647058824
+Brunei Darussalam,1981,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1981,Temperature change,0.11935294117647058
+Brunei Darussalam,1982,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1982,Temperature change,0.23358823529411765
+Brunei Darussalam,1983,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1983,Temperature change,0.5188823529411765
+Brunei Darussalam,1984,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1984,Temperature change,0.03929411764705882
+Brunei Darussalam,1985,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1985,Temperature change,0.17458823529411766
+Brunei Darussalam,1986,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1986,Temperature change,0.1811764705882353
+Brunei Darussalam,1987,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1987,Temperature change,0.49617647058823533
+Brunei Darussalam,1988,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1988,Temperature change,0.4138235294117647
+Brunei Darussalam,1989,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1989,Temperature change,0.10276470588235294
+Brunei Darussalam,1990,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1990,Temperature change,0.39376470588235296
+Brunei Darussalam,1991,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1991,Temperature change,0.378
+Brunei Darussalam,1992,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1992,Temperature change,0.30829411764705883
+Brunei Darussalam,1993,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1993,Temperature change,0.24635294117647058
+Brunei Darussalam,1994,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1994,Temperature change,0.4651176470588235
+Brunei Darussalam,1995,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1995,Temperature change,0.4464705882352941
+Brunei Darussalam,1996,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1996,Temperature change,0.436
+Brunei Darussalam,1997,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1997,Temperature change,0.7271176470588235
+Brunei Darussalam,1998,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1998,Temperature change,1.257
+Brunei Darussalam,1999,Standard Deviation,0.3014117647058824
+Brunei Darussalam,1999,Temperature change,0.5547058823529412
+Brunei Darussalam,2000,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2000,Temperature change,0.5070588235294117
+Brunei Darussalam,2001,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2001,Temperature change,0.5842352941176471
+Brunei Darussalam,2002,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2002,Temperature change,0.7378823529411765
+Brunei Darussalam,2003,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2003,Temperature change,0.6701764705882354
+Brunei Darussalam,2004,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2004,Temperature change,0.6769411764705882
+Brunei Darussalam,2005,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2005,Temperature change,0.8911764705882353
+Brunei Darussalam,2006,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2006,Temperature change,0.7645294117647059
+Brunei Darussalam,2007,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2007,Temperature change,0.7036470588235294
+Brunei Darussalam,2008,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2008,Temperature change,0.5264117647058824
+Brunei Darussalam,2009,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2009,Temperature change,0.8918823529411766
+Brunei Darussalam,2010,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2010,Temperature change,0.9776470588235294
+Brunei Darussalam,2011,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2011,Temperature change,0.7521764705882353
+Brunei Darussalam,2012,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2012,Temperature change,0.934
+Brunei Darussalam,2013,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2013,Temperature change,1.1904117647058823
+Brunei Darussalam,2014,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2014,Temperature change,1.0103529411764705
+Brunei Darussalam,2015,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2015,Temperature change,1.3319411764705882
+Brunei Darussalam,2016,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2016,Temperature change,1.7286470588235294
+Brunei Darussalam,2017,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2017,Temperature change,1.4436470588235293
+Brunei Darussalam,2018,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2018,Temperature change,1.4365882352941177
+Brunei Darussalam,2019,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2019,Temperature change,1.6211176470588236
+Brunei Darussalam,2020,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2020,Temperature change,1.7755882352941175
+Brunei Darussalam,2021,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2021,Temperature change,1.4863529411764707
+Brunei Darussalam,2022,Standard Deviation,0.3014117647058824
+Brunei Darussalam,2022,Temperature change,1.3757058823529411
+Burundi,1961,Standard Deviation,0.401
+Burundi,1961,Temperature change,-0.01311764705882354
+Burundi,1962,Standard Deviation,0.401
+Burundi,1962,Temperature change,-0.5095882352941177
+Burundi,1963,Standard Deviation,0.401
+Burundi,1963,Temperature change,0.017529411764705877
+Burundi,1964,Standard Deviation,0.401
+Burundi,1964,Temperature change,-0.24111764705882355
+Burundi,1965,Standard Deviation,0.401
+Burundi,1965,Temperature change,-0.22382352941176473
+Burundi,1966,Standard Deviation,0.401
+Burundi,1966,Temperature change,-0.00052941176470588
+Burundi,1967,Standard Deviation,0.401
+Burundi,1967,Temperature change,-0.261
+Burundi,1968,Standard Deviation,0.401
+Burundi,1968,Temperature change,-0.2761764705882353
+Burundi,1969,Standard Deviation,0.401
+Burundi,1969,Temperature change,0.1943529411764706
+Burundi,1970,Standard Deviation,0.401
+Burundi,1970,Temperature change,0.24211764705882352
+Burundi,1971,Standard Deviation,0.401
+Burundi,1971,Temperature change,-0.31882352941176473
+Burundi,1972,Standard Deviation,0.401
+Burundi,1972,Temperature change,0.22423529411764706
+Burundi,1973,Standard Deviation,0.401
+Burundi,1973,Temperature change,0.5390588235294117
+Burundi,1974,Standard Deviation,0.401
+Burundi,1974,Temperature change,0.16976470588235296
+Burundi,1975,Standard Deviation,0.40166666666666667
+Burundi,1975,Temperature change,-0.03233333333333333
+Burundi,1979,Standard Deviation,0.42228571428571426
+Burundi,1979,Temperature change,0.6782857142857143
+Burundi,1980,Standard Deviation,0.42100000000000004
+Burundi,1980,Temperature change,0.9604999999999999
+Burundi,1981,Standard Deviation,0.4055714285714286
+Burundi,1981,Temperature change,0.9717142857142856
+Burundi,1982,Standard Deviation,0.39826666666666666
+Burundi,1982,Temperature change,0.3806
+Burundi,1983,Standard Deviation,0.3993333333333334
+Burundi,1983,Temperature change,0.6462666666666667
+Burundi,1984,Standard Deviation,0.42175
+Burundi,1984,Temperature change,-0.060375
+Burundi,1985,Standard Deviation,0.292
+Burundi,1985,Temperature change,0.193
+Burundi,1986,Standard Deviation,0.39786666666666665
+Burundi,1986,Temperature change,0.4976
+Burundi,1987,Standard Deviation,0.401
+Burundi,1987,Temperature change,0.6914117647058823
+Burundi,1988,Standard Deviation,0.401
+Burundi,1988,Temperature change,0.1748823529411765
+Burundi,1989,Standard Deviation,0.4019375
+Burundi,1989,Temperature change,0.028375000000000004
+Burundi,1990,Standard Deviation,0.397875
+Burundi,1990,Temperature change,0.289625
+Burundi,1991,Standard Deviation,0.401
+Burundi,1991,Temperature change,-0.09588235294117645
+Burundi,1992,Standard Deviation,0.40073333333333333
+Burundi,1992,Temperature change,0.007533333333333338
+Burundi,1993,Standard Deviation,0.4083333333333334
+Burundi,1993,Temperature change,0.039
+Burundi,1994,Standard Deviation,0.38380000000000003
+Burundi,1994,Temperature change,0.0748
+Burundi,1995,Standard Deviation,0.391
+Burundi,1995,Temperature change,0.592125
+Burundi,1996,Standard Deviation,0.426375
+Burundi,1996,Temperature change,0.67275
+Burundi,1997,Standard Deviation,0.4323333333333333
+Burundi,1997,Temperature change,1.072
+Burundi,1998,Standard Deviation,0.3909285714285714
+Burundi,1998,Temperature change,0.5967142857142856
+Burundi,1999,Standard Deviation,0.43983333333333335
+Burundi,1999,Temperature change,-0.8875000000000001
+Burundi,2000,Standard Deviation,0.42200000000000004
+Burundi,2000,Temperature change,0.6020000000000001
+Burundi,2001,Standard Deviation,0.396
+Burundi,2001,Temperature change,0.4331333333333333
+Burundi,2002,Standard Deviation,0.396125
+Burundi,2002,Temperature change,0.9326875
+Burundi,2003,Standard Deviation,0.401
+Burundi,2003,Temperature change,1.0061764705882352
+Burundi,2004,Standard Deviation,0.401
+Burundi,2004,Temperature change,1.1331764705882352
+Burundi,2007,Standard Deviation,0.39021428571428574
+Burundi,2007,Temperature change,1.2202142857142857
+Burundi,2008,Standard Deviation,0.4245
+Burundi,2008,Temperature change,1.19275
+Burundi,2009,Standard Deviation,0.41833333333333333
+Burundi,2009,Temperature change,0.9834444444444443
+Burundi,2010,Standard Deviation,0.42000000000000004
+Burundi,2010,Temperature change,1.6288
+Burundi,2011,Standard Deviation,0.43733333333333335
+Burundi,2011,Temperature change,0.511
+Burundi,2012,Standard Deviation,0.4205
+Burundi,2012,Temperature change,0.9735
+Burundi,2013,Standard Deviation,0.40750000000000003
+Burundi,2013,Temperature change,1.294125
+Canada,1961,Standard Deviation,1.191
+Canada,1961,Temperature change,-0.07523529411764705
+Canada,1962,Standard Deviation,1.191
+Canada,1962,Temperature change,-0.0012352941176470794
+Canada,1963,Standard Deviation,1.191
+Canada,1963,Temperature change,0.28194117647058825
+Canada,1964,Standard Deviation,1.191
+Canada,1964,Temperature change,-0.4686470588235294
+Canada,1965,Standard Deviation,1.191
+Canada,1965,Temperature change,-0.6622941176470588
+Canada,1966,Standard Deviation,1.191
+Canada,1966,Temperature change,-0.16052941176470586
+Canada,1967,Standard Deviation,1.191
+Canada,1967,Temperature change,-0.37511764705882356
+Canada,1968,Standard Deviation,1.191
+Canada,1968,Temperature change,0.31247058823529406
+Canada,1969,Standard Deviation,1.191
+Canada,1969,Temperature change,0.2757058823529412
+Canada,1970,Standard Deviation,1.191
+Canada,1970,Temperature change,0.004058823529411746
+Canada,1971,Standard Deviation,1.191
+Canada,1971,Temperature change,-0.01617647058823529
+Canada,1972,Standard Deviation,1.191
+Canada,1972,Temperature change,-1.8515294117647059
+Canada,1973,Standard Deviation,1.191
+Canada,1973,Temperature change,0.5818235294117647
+Canada,1974,Standard Deviation,1.191
+Canada,1974,Temperature change,-0.7674117647058823
+Canada,1975,Standard Deviation,1.191
+Canada,1975,Temperature change,0.016117647058823535
+Canada,1976,Standard Deviation,1.191
+Canada,1976,Temperature change,0.0728235294117647
+Canada,1977,Standard Deviation,1.191
+Canada,1977,Temperature change,1.044470588235294
+Canada,1978,Standard Deviation,1.191
+Canada,1978,Temperature change,-0.4595294117647059
+Canada,1979,Standard Deviation,1.191
+Canada,1979,Temperature change,-0.11276470588235293
+Canada,1980,Standard Deviation,1.191
+Canada,1980,Temperature change,0.6228823529411764
+Canada,1981,Standard Deviation,1.191
+Canada,1981,Temperature change,1.8882941176470587
+Canada,1982,Standard Deviation,1.191
+Canada,1982,Temperature change,-0.8328823529411765
+Canada,1983,Standard Deviation,1.191
+Canada,1983,Temperature change,0.3295882352941176
+Canada,1984,Standard Deviation,1.191
+Canada,1984,Temperature change,0.3361764705882353
+Canada,1985,Standard Deviation,1.191
+Canada,1985,Temperature change,-0.05564705882352941
+Canada,1986,Standard Deviation,1.191
+Canada,1986,Temperature change,0.07070588235294116
+Canada,1987,Standard Deviation,1.191
+Canada,1987,Temperature change,1.451470588235294
+Canada,1988,Standard Deviation,1.191
+Canada,1988,Temperature change,0.949764705882353
+Canada,1989,Standard Deviation,1.191
+Canada,1989,Temperature change,-0.06588235294117648
+Canada,1990,Standard Deviation,1.191
+Canada,1990,Temperature change,0.014294117647058827
+Canada,1991,Standard Deviation,1.191
+Canada,1991,Temperature change,0.4919411764705883
+Canada,1992,Standard Deviation,1.191
+Canada,1992,Temperature change,0.05041176470588235
+Canada,1993,Standard Deviation,1.191
+Canada,1993,Temperature change,0.4643529411764706
+Canada,1994,Standard Deviation,1.191
+Canada,1994,Temperature change,0.516
+Canada,1995,Standard Deviation,1.191
+Canada,1995,Temperature change,0.7495294117647058
+Canada,1996,Standard Deviation,1.191
+Canada,1996,Temperature change,-0.017647058823529405
+Canada,1997,Standard Deviation,1.191
+Canada,1997,Temperature change,0.622
+Canada,1998,Standard Deviation,1.191
+Canada,1998,Temperature change,2.3749411764705886
+Canada,1999,Standard Deviation,1.191
+Canada,1999,Temperature change,1.746529411764706
+Canada,2000,Standard Deviation,1.191
+Canada,2000,Temperature change,1.0353529411764706
+Canada,2001,Standard Deviation,1.191
+Canada,2001,Temperature change,1.7103529411764706
+Canada,2002,Standard Deviation,1.191
+Canada,2002,Temperature change,0.5821176470588235
+Canada,2003,Standard Deviation,1.191
+Canada,2003,Temperature change,1.166764705882353
+Canada,2004,Standard Deviation,1.191
+Canada,2004,Temperature change,0.21217647058823527
+Canada,2005,Standard Deviation,1.191
+Canada,2005,Temperature change,1.5545882352941176
+Canada,2006,Standard Deviation,1.191
+Canada,2006,Temperature change,2.4248823529411765
+Canada,2007,Standard Deviation,1.191
+Canada,2007,Temperature change,1.0393529411764706
+Canada,2008,Standard Deviation,1.191
+Canada,2008,Temperature change,0.7316470588235294
+Canada,2009,Standard Deviation,1.191
+Canada,2009,Temperature change,0.7703529411764706
+Canada,2010,Standard Deviation,1.191
+Canada,2010,Temperature change,3.0315882352941177
+Canada,2011,Standard Deviation,1.191
+Canada,2011,Temperature change,1.4404705882352942
+Canada,2012,Standard Deviation,1.191
+Canada,2012,Temperature change,1.9786470588235294
+Canada,2013,Standard Deviation,1.191
+Canada,2013,Temperature change,0.9502352941176471
+Canada,2014,Standard Deviation,1.191
+Canada,2014,Temperature change,0.6045882352941176
+Canada,2015,Standard Deviation,1.191
+Canada,2015,Temperature change,1.2785882352941176
+Canada,2016,Standard Deviation,1.191
+Canada,2016,Temperature change,2.1975294117647057
+Canada,2017,Standard Deviation,1.191
+Canada,2017,Temperature change,1.5559411764705882
+Canada,2018,Standard Deviation,1.191
+Canada,2018,Temperature change,0.5695882352941176
+Canada,2019,Standard Deviation,1.191
+Canada,2019,Temperature change,1.2562941176470588
+Canada,2020,Standard Deviation,1.191
+Canada,2020,Temperature change,1.2614117647058822
+Canada,2021,Standard Deviation,1.191
+Canada,2021,Temperature change,2.269529411764706
+Canada,2022,Standard Deviation,1.191
+Canada,2022,Temperature change,1.3199411764705882
+Central African Republic,1961,Standard Deviation,0.371
+Central African Republic,1961,Temperature change,-0.14658823529411766
+Central African Republic,1962,Standard Deviation,0.371
+Central African Republic,1962,Temperature change,-0.22411764705882353
+Central African Republic,1963,Standard Deviation,0.371
+Central African Republic,1963,Temperature change,0.018705882352941173
+Central African Republic,1964,Standard Deviation,0.371
+Central African Republic,1964,Temperature change,-0.14258823529411765
+Central African Republic,1965,Standard Deviation,0.371
+Central African Republic,1965,Temperature change,-0.0561764705882353
+Central African Republic,1966,Standard Deviation,0.371
+Central African Republic,1966,Temperature change,0.04052941176470588
+Central African Republic,1967,Standard Deviation,0.371
+Central African Republic,1967,Temperature change,-0.18623529411764705
+Central African Republic,1968,Standard Deviation,0.371
+Central African Republic,1968,Temperature change,-0.16370588235294117
+Central African Republic,1969,Standard Deviation,0.371
+Central African Republic,1969,Temperature change,0.16394117647058823
+Central African Republic,1970,Standard Deviation,0.371
+Central African Republic,1970,Temperature change,0.18270588235294116
+Central African Republic,1971,Standard Deviation,0.371
+Central African Republic,1971,Temperature change,-0.10652941176470589
+Central African Republic,1972,Standard Deviation,0.371
+Central African Republic,1972,Temperature change,0.17058823529411765
+Central African Republic,1973,Standard Deviation,0.371
+Central African Republic,1973,Temperature change,0.5173529411764706
+Central African Republic,1974,Standard Deviation,0.371
+Central African Republic,1974,Temperature change,-0.0988235294117647
+Central African Republic,1975,Standard Deviation,0.371
+Central African Republic,1975,Temperature change,-0.05558823529411764
+Central African Republic,1976,Standard Deviation,0.371
+Central African Republic,1976,Temperature change,-0.041235294117647064
+Central African Republic,1977,Standard Deviation,0.371
+Central African Republic,1977,Temperature change,0.16358823529411765
+Central African Republic,1978,Standard Deviation,0.371
+Central African Republic,1978,Temperature change,0.07741176470588235
+Central African Republic,1979,Standard Deviation,0.371
+Central African Republic,1979,Temperature change,0.3340588235294118
+Central African Republic,1980,Standard Deviation,0.371
+Central African Republic,1980,Temperature change,0.441
+Central African Republic,1981,Standard Deviation,0.371
+Central African Republic,1981,Temperature change,0.09364705882352939
+Central African Republic,1982,Standard Deviation,0.371
+Central African Republic,1982,Temperature change,0.14364705882352943
+Central African Republic,1983,Standard Deviation,0.371
+Central African Republic,1983,Temperature change,0.42158823529411765
+Central African Republic,1984,Standard Deviation,0.371
+Central African Republic,1984,Temperature change,0.1418235294117647
+Central African Republic,1985,Standard Deviation,0.371
+Central African Republic,1985,Temperature change,0.16282352941176473
+Central African Republic,1986,Standard Deviation,0.371
+Central African Republic,1986,Temperature change,0.43417647058823533
+Central African Republic,1987,Standard Deviation,0.371
+Central African Republic,1987,Temperature change,0.563764705882353
+Central African Republic,1988,Standard Deviation,0.371
+Central African Republic,1988,Temperature change,0.23511764705882351
+Central African Republic,1989,Standard Deviation,0.371
+Central African Republic,1989,Temperature change,-0.20847058823529413
+Central African Republic,1990,Standard Deviation,0.371
+Central African Republic,1990,Temperature change,0.6366470588235295
+Central African Republic,1991,Standard Deviation,0.3745625
+Central African Republic,1991,Temperature change,0.3295625
+Central African Republic,1992,Standard Deviation,0.371
+Central African Republic,1992,Temperature change,-0.4141764705882353
+Central African Republic,1993,Standard Deviation,0.371
+Central African Republic,1993,Temperature change,0.3960588235294118
+Central African Republic,1994,Standard Deviation,0.371
+Central African Republic,1994,Temperature change,0.45552941176470585
+Central African Republic,1995,Standard Deviation,0.371
+Central African Republic,1995,Temperature change,0.21764705882352942
+Central African Republic,1996,Standard Deviation,0.371
+Central African Republic,1996,Temperature change,0.05758823529411765
+Central African Republic,1997,Standard Deviation,0.3884285714285714
+Central African Republic,1997,Temperature change,0.5633571428571429
+Central African Republic,1998,Standard Deviation,0.371
+Central African Republic,1998,Temperature change,1.1659411764705883
+Central African Republic,1999,Standard Deviation,0.371
+Central African Republic,1999,Temperature change,0.4888235294117647
+Central African Republic,2000,Standard Deviation,0.371
+Central African Republic,2000,Temperature change,0.6716470588235294
+Central African Republic,2001,Standard Deviation,0.371
+Central African Republic,2001,Temperature change,0.44682352941176473
+Central African Republic,2002,Standard Deviation,0.371
+Central African Republic,2002,Temperature change,0.6639411764705883
+Central African Republic,2003,Standard Deviation,0.371
+Central African Republic,2003,Temperature change,0.9132941176470588
+Central African Republic,2004,Standard Deviation,0.371
+Central African Republic,2004,Temperature change,0.947529411764706
+Central African Republic,2005,Standard Deviation,0.371
+Central African Republic,2005,Temperature change,1.049294117647059
+Central African Republic,2006,Standard Deviation,0.371
+Central African Republic,2006,Temperature change,0.8295294117647058
+Central African Republic,2007,Standard Deviation,0.371
+Central African Republic,2007,Temperature change,0.6198235294117647
+Central African Republic,2008,Standard Deviation,0.371
+Central African Republic,2008,Temperature change,0.7014705882352942
+Central African Republic,2009,Standard Deviation,0.371
+Central African Republic,2009,Temperature change,1.083235294117647
+Central African Republic,2010,Standard Deviation,0.371
+Central African Republic,2010,Temperature change,1.165058823529412
+Central African Republic,2011,Standard Deviation,0.371
+Central African Republic,2011,Temperature change,0.6311764705882353
+Central African Republic,2012,Standard Deviation,0.371
+Central African Republic,2012,Temperature change,0.6291176470588236
+Central African Republic,2013,Standard Deviation,0.371
+Central African Republic,2013,Temperature change,0.8594117647058823
+Central African Republic,2014,Standard Deviation,0.371
+Central African Republic,2014,Temperature change,0.6788823529411765
+Central African Republic,2015,Standard Deviation,0.371
+Central African Republic,2015,Temperature change,0.9262941176470588
+Central African Republic,2016,Standard Deviation,0.371
+Central African Republic,2016,Temperature change,1.3504117647058824
+Central African Republic,2017,Standard Deviation,0.371
+Central African Republic,2017,Temperature change,1.2300588235294119
+Central African Republic,2018,Standard Deviation,0.371
+Central African Republic,2018,Temperature change,1.0965882352941176
+Central African Republic,2019,Standard Deviation,0.371
+Central African Republic,2019,Temperature change,1.2489411764705882
+Central African Republic,2020,Standard Deviation,0.371
+Central African Republic,2020,Temperature change,1.192235294117647
+Central African Republic,2021,Standard Deviation,0.371
+Central African Republic,2021,Temperature change,1.2783529411764705
+Central African Republic,2022,Standard Deviation,0.371
+Central African Republic,2022,Temperature change,0.9835882352941177
+Chad,1961,Standard Deviation,0.64
+Chad,1961,Temperature change,-0.6751764705882353
+Chad,1962,Standard Deviation,0.64
+Chad,1962,Temperature change,-0.10229411764705881
+Chad,1963,Standard Deviation,0.64
+Chad,1963,Temperature change,0.277
+Chad,1964,Standard Deviation,0.64
+Chad,1964,Temperature change,-0.19023529411764706
+Chad,1965,Standard Deviation,0.64
+Chad,1965,Temperature change,-0.13523529411764704
+Chad,1966,Standard Deviation,0.64
+Chad,1966,Temperature change,-0.006823529411764693
+Chad,1967,Standard Deviation,0.64
+Chad,1967,Temperature change,-0.2811764705882353
+Chad,1968,Standard Deviation,0.64
+Chad,1968,Temperature change,-0.185
+Chad,1969,Standard Deviation,0.64
+Chad,1969,Temperature change,0.5961764705882353
+Chad,1970,Standard Deviation,0.64
+Chad,1970,Temperature change,0.02335294117647059
+Chad,1971,Standard Deviation,0.64
+Chad,1971,Temperature change,-0.25076470588235295
+Chad,1972,Standard Deviation,0.64
+Chad,1972,Temperature change,0.31976470588235295
+Chad,1973,Standard Deviation,0.64
+Chad,1973,Temperature change,0.7152941176470589
+Chad,1974,Standard Deviation,0.64
+Chad,1974,Temperature change,-0.1698235294117647
+Chad,1975,Standard Deviation,0.64
+Chad,1975,Temperature change,-0.1285294117647059
+Chad,1976,Standard Deviation,0.64
+Chad,1976,Temperature change,0.3294705882352941
+Chad,1977,Standard Deviation,0.64
+Chad,1977,Temperature change,-0.17658823529411766
+Chad,1978,Standard Deviation,0.64
+Chad,1978,Temperature change,-0.03723529411764706
+Chad,1979,Standard Deviation,0.64
+Chad,1979,Temperature change,0.4080588235294118
+Chad,1980,Standard Deviation,0.64
+Chad,1980,Temperature change,0.33829411764705886
+Chad,1981,Standard Deviation,0.64
+Chad,1981,Temperature change,0.10141176470588237
+Chad,1982,Standard Deviation,0.64
+Chad,1982,Temperature change,0.25888235294117645
+Chad,1983,Standard Deviation,0.64
+Chad,1983,Temperature change,-0.0001176470588235336
+Chad,1984,Standard Deviation,0.64
+Chad,1984,Temperature change,0.4385294117647059
+Chad,1985,Standard Deviation,0.64
+Chad,1985,Temperature change,0.2272941176470588
+Chad,1986,Standard Deviation,0.64
+Chad,1986,Temperature change,0.5160588235294118
+Chad,1987,Standard Deviation,0.64
+Chad,1987,Temperature change,0.4631764705882353
+Chad,1988,Standard Deviation,0.64
+Chad,1988,Temperature change,0.11229411764705881
+Chad,1989,Standard Deviation,0.64
+Chad,1989,Temperature change,-0.27417647058823524
+Chad,1990,Standard Deviation,0.64
+Chad,1990,Temperature change,0.5215882352941177
+Chad,1991,Standard Deviation,0.64
+Chad,1991,Temperature change,0.4815882352941176
+Chad,1992,Standard Deviation,0.64
+Chad,1992,Temperature change,-0.24682352941176475
+Chad,1993,Standard Deviation,0.64
+Chad,1993,Temperature change,0.3696470588235294
+Chad,1994,Standard Deviation,0.64
+Chad,1994,Temperature change,0.2577058823529412
+Chad,1995,Standard Deviation,0.64
+Chad,1995,Temperature change,0.26952941176470585
+Chad,1996,Standard Deviation,0.64
+Chad,1996,Temperature change,0.5624705882352941
+Chad,1997,Standard Deviation,0.64
+Chad,1997,Temperature change,0.5145294117647059
+Chad,1998,Standard Deviation,0.64
+Chad,1998,Temperature change,0.9024705882352941
+Chad,1999,Standard Deviation,0.64
+Chad,1999,Temperature change,0.4732941176470588
+Chad,2000,Standard Deviation,0.64
+Chad,2000,Temperature change,0.23370588235294118
+Chad,2001,Standard Deviation,0.64
+Chad,2001,Temperature change,0.39476470588235296
+Chad,2002,Standard Deviation,0.64
+Chad,2002,Temperature change,0.7388235294117648
+Chad,2003,Standard Deviation,0.64
+Chad,2003,Temperature change,0.8594117647058823
+Chad,2004,Standard Deviation,0.64
+Chad,2004,Temperature change,0.8692352941176471
+Chad,2005,Standard Deviation,0.64
+Chad,2005,Temperature change,1.223235294117647
+Chad,2006,Standard Deviation,0.64
+Chad,2006,Temperature change,1.1796470588235293
+Chad,2007,Standard Deviation,0.64
+Chad,2007,Temperature change,0.7167058823529412
+Chad,2008,Standard Deviation,0.64
+Chad,2008,Temperature change,0.49294117647058827
+Chad,2009,Standard Deviation,0.64
+Chad,2009,Temperature change,1.1966470588235294
+Chad,2010,Standard Deviation,0.64
+Chad,2010,Temperature change,1.154294117647059
+Chad,2011,Standard Deviation,0.64
+Chad,2011,Temperature change,0.9185882352941176
+Chad,2012,Standard Deviation,0.64
+Chad,2012,Temperature change,0.6075294117647059
+Chad,2013,Standard Deviation,0.64
+Chad,2013,Temperature change,1.0428823529411764
+Chad,2014,Standard Deviation,0.64
+Chad,2014,Temperature change,0.8935882352941177
+Chad,2015,Standard Deviation,0.64
+Chad,2015,Temperature change,1.098529411764706
+Chad,2016,Standard Deviation,0.64
+Chad,2016,Temperature change,1.146294117647059
+Chad,2017,Standard Deviation,0.64
+Chad,2017,Temperature change,1.0499411764705882
+Chad,2018,Standard Deviation,0.64
+Chad,2018,Temperature change,1.4571176470588236
+Chad,2019,Standard Deviation,0.64
+Chad,2019,Temperature change,1.2975882352941177
+Chad,2020,Standard Deviation,0.64
+Chad,2020,Temperature change,1.2274117647058824
+Chad,2021,Standard Deviation,0.64
+Chad,2021,Temperature change,1.1404117647058825
+Chad,2022,Standard Deviation,0.64
+Chad,2022,Temperature change,0.7591176470588236
